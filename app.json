@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "icon" : "./assets/images/Jobify.png",
+    "splash": {
+      "image": "./assets/images/Jobify.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FF914D"
+    },
+    "name": "jobify",
+    "slug": "jobify"
+  }
+}
